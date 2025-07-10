@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanChd&show_icons=true&theme=react&hide_title=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChd&layout=compact&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanChd&show_icons=true&theme=react&hide_title=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChd&layout=compact&theme=react" width="45%" />
 </p>
 
 ---
