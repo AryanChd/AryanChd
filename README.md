@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanchaudhary&show_icons=true&theme=react&hide_title=false)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanChd&show_icons=true&theme=react&hide_title=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchaudhary&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChd&layout=compact&theme=react)
 
 ---
 
