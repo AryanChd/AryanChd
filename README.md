@@ -6,10 +6,6 @@
   🌱 Passionate about technology & always eager to learn
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00F7FF&width=435&lines=Full-Stack+Developer;Passionate+about+Tech;Lifelong+Learner+💡;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 About Me
