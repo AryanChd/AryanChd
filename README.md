@@ -54,9 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChd&layout=compact&theme=react" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryanChd&theme=onestar&no-frame=true&column=6&margin-w=5" alt="Trophies" />
-</p>
+
 
 ---
 
