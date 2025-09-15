@@ -5,7 +5,6 @@
 
 <p align="center">
   🎓 BSc (Hons) Computing Student at <strong>Itahari International College</strong><br>
-  💻 MERN Stack Intern at <strong>Digital Pathshala</strong><br>
   🌱 Passionate about technology & always eager to learn
 </p>
 
