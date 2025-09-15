@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently interning as a **MERN Stack Developer** at **Digital Pathshala**
+
 - 🧠 Constantly learning new technologies and tools
 - 🔧 Love building full-stack applications
 - 🌍 Interested in open-source and real-world projects
